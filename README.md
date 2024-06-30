@@ -36,4 +36,4 @@ We welcome contributions from the robotics, AI, and open-source communities! Thi
 
 * (This section will be filled in later with specific steps for those interested in contributing or using the codebase.)
 
-**Remember:** Safety is paramount. While this project explores the potential of AI in cybernetic limbs, real-world applications require collaboration with qualified professionals and adherence to safety regulations. I am also tryig my best to fix theproblem with error handling capabilities, I am open to ideas. 
+**Remember:** Safety is paramount. While this project explores the potential of AI in cybernetic limbs, real-world applications require collaboration with qualified professionals and adherence to safety regulations. I am also trying my best to fix theproblem with error handling capabilities, I am open to ideas. 
