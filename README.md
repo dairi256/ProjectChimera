@@ -1,4 +1,4 @@
-## Project Chimera: Bridging the Gap: Towards Real-World Cybernetic Limbs with AI-powered Control Systems
+## Project Chimera: Bridging the Gap Towards Real-World Cybernetic Limbs with AI-powered Control Systems
 
 **Vision:**
 
